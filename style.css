@@ -1,0 +1,23 @@
+/*
+ Theme Name:   Astra Child
+ Theme URI:    http://storyscaping.kbrandstrup.dk/
+ Description:  Astra Child Theme
+ Author:       Marissa, Kristy
+ Author URI:   http://storyscaping.kbrandstrup.dk/
+ Template:     astra
+ Version:      1.0.1
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  twentyfifteenchild
+*/
+
+h2.elementor-heading-title.elementor-size-default {
+    font-size: 2rem;
+}
+
+.elementor-button:hover, .elementor-button:focus {
+    color: #000000;
+    background-color: #ffffff;
+    box-shadow: inset 11em 0 0 0 #ffffff;
+}
